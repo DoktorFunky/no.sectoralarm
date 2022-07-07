@@ -10,7 +10,7 @@
     "eslint": "^6.8.0",
     "https": "^1.0.0",
     "json-mapper": "^0.0.12",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "promise": "^8.0.3"
   },
   "devDependencies": {
